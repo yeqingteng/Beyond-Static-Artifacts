@@ -1,3 +1,3 @@
 # Beyond-Static-Artifacts
-![Beyond-Static-Artifacts banner](assets/figure2.pdf)
+![Beyond-Static-Artifacts banner](assets/figure2.png)
 coming soon...
