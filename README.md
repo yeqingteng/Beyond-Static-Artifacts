@@ -5,7 +5,7 @@ With the generative capabilities of large language models (LLMs) reshaping the i
 A social simulation framework for claim evolution and customized check-worthiness detection.
 ## Premilinary
 ### Open Claims Model (OCM)
-OCM represents a claim through three layers—context, utterance, and proposition—to disentangle narrative background, linguistic form, and factual content. It further parameterizes these layers with interpretable dimensions (e.g., stance, causality, veracity) to trace and control how claims evolve across social networks.
+OCM represents a claim through three layers—context, utterance, and proposition—to disentangle narrative background, linguistic form, and factual content. It further parameterizes these layers with interpretable dimensions (e.g., stance, causality, veracity) to trace and control how claims evolve across social networks. Details can be found in the `assets` folder.
 ### Simulated Social Environment
 This environment simulates claim evolution in a social environment with heterogeneous agents modeled from real users’ psychometric traits and sociocultural groups. Claims propagate over different network topologies (random, clustered, scale-free) to study how social structure drives information mutation and veracity drift. The details of the three types of networks and user information can be found in the `assets` folder.
 ## Methodology
