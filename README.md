@@ -1,3 +1,4 @@
-# Beyond-Static-Artifacts
+# Beyond-Static-Artifacts: An Evolutionary Framework for Synthetic Claim Generation
+With the generative capabilities of large language models (LLMs) reshaping the information ecosystem, the concern with the sociological validity of claim detection benchmarks is increasing. Current claim detection benchmarks predominantly treat claims as static textual artifacts, overlooking the sociological etiology of how information naturally emerges and mutates. In this paper, we propose an evolutionary paradigm that models claims as socially evolving entities. Specifically, we introduce a socially generative framework for synthetic claim generation, a multi-agent simulation grounded in the Open Claims Model. By decomposing claims into context, utterance, and proposition, our approach enables the precise simulation of unmitigated propagation to capture truth decay, and intervened propagation with multi-auditor oversight for targeted generation. Furthermore, we propose the background-user-perspective (BUP) framework, which reformulates check-worthiness as a condition-dependent probability rooted in the social environment. Experiments on our datasets verify the data quality and reveal how network topology and user attributes systematically shape veracity drift.
 ![Beyond-Static-Artifacts banner](assets/figure2.png)
-coming soon...
+
