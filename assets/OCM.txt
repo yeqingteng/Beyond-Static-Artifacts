@@ -1,68 +1,63 @@
 1. Linguistic Style
-
-（1）Rational–Official
+(1) Rational–Official
 Formal, restrained, objective, and neutral in tone; resembles institutional statements, official documents, or professional reports; minimal emotional expression.
 
-（2）Colloquial–Emotional
+(2) Colloquial–Emotional
 Informal, conversational, and expressive; contains subjective feelings, attitudes, or emotional coloring, often using everyday or vivid language.
 
-2. Message Type
-
-（1）Fact
+2. Expression Type
+(1) Fact
 Presents objective, verifiable information or explanatory context without expressing subjective attitudes or evaluative judgments.
 
-（2）Opinion
+(2) Opinion
 Based on the known public evidence, clearly and strongly expresses subjective attitudes, value judgments, personal interpretations, or evaluative viewpoints.
 
-（3）Corrective
+(3) Corrective
 Based on the known public evidence, from the speaker's own understanding, refutes or corrects facts or opinions that are inconsistent with the speaker's own knowledge.
 
-3. Granularity
-
-（1）Macro / High-Level
+3. Message Granularity
+(1) Macro / High-Level
 Focuses on overall trends, broader context, or general descriptions without detailed specifics.
 
-（2）Micro / Detailed
+(2) Micro / Detailed
 Includes concrete cases, examples, numbers, individuals, or fine-grained information.
 
 4. Causal Structure
-
-（1）Direct Causation
+(1) Direct Causation
 States that A directly causes B, with a clear and immediate causal link.
 
-（2）Indirect Causation
+(2) Indirect Causation
 States that A influences B through intermediate factors or multi-step causal chains.
 
-（3）Causal Refutation
+(3) Causal Refutation
 Rejects, disputes, or corrects a proposed causal relationship, asserting that “A does not / cannot / did not cause B.”
 
-（4）No Causation
+(4) No Causation
 Contains no causal relationship and does not address or refute causality.
 
 5. Stance Polarity
-
-（1）Support
+(1) Support
 Clearly expresses agreement with a viewpoint, policy, action, person, or conclusion.
 
-（2）Oppose
+(2) Oppose
 Clearly expresses disagreement, criticism, or objection.
 
-（3）Neutral
+(3) Neutral
 Expresses no stance; presents information or viewpoints without favoring any side.
 
-（4）Multi-perspective Comparison
+(4) Multi-perspective Comparison
 Presents and contrasts multiple positions or viewpoints without endorsing any single one.
 
 6. Veracity Level
+(1) TRUE – The statement is accurate and there’s nothing significant missing.
 
-（1）TRUE – The statement is accurate and there’s nothing significant missing.
+(2) MOSTLY TRUE – The statement is accurate but needs clarification or additional information.
 
-（2）MOSTLY TRUE – The statement is accurate but needs clarification or additional information.
+(3) HALF TRUE – The statement is partially accurate but leaves out important details or takes things out of context.
 
-（3）HALF TRUE – The statement is partially accurate but leaves out important details or takes things out of context.
+(4) MOSTLY FALSE – The statement contains an element of truth but ignores critical facts that would give a different impression.
 
-（4）MOSTLY FALSE – The statement contains an element of truth but ignores critical facts that would give a different impression.
+(5) FALSE – The statement is not accurate.
 
-（5）FALSE – The statement is not accurate.
+(6) PANTS ON FIRE – The statement is not accurate and makes a ridiculous claim.
 
-（6）PANTS ON FIRE – The statement is not accurate and makes a ridiculous claim.
