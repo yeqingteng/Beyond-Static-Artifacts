@@ -1,0 +1,1145 @@
+{
+  "network_type": "random",
+  "nodes": [
+    {
+      "id": "character_1"
+    },
+    {
+      "id": "character_2"
+    },
+    {
+      "id": "character_3"
+    },
+    {
+      "id": "character_4"
+    },
+    {
+      "id": "character_5"
+    },
+    {
+      "id": "character_6"
+    },
+    {
+      "id": "character_7"
+    },
+    {
+      "id": "character_8"
+    },
+    {
+      "id": "character_9"
+    },
+    {
+      "id": "character_10"
+    },
+    {
+      "id": "character_11"
+    },
+    {
+      "id": "character_12"
+    },
+    {
+      "id": "character_13"
+    },
+    {
+      "id": "character_14"
+    },
+    {
+      "id": "character_15"
+    },
+    {
+      "id": "character_16"
+    },
+    {
+      "id": "character_17"
+    },
+    {
+      "id": "character_18"
+    },
+    {
+      "id": "character_19"
+    },
+    {
+      "id": "character_20"
+    },
+    {
+      "id": "character_21"
+    },
+    {
+      "id": "character_22"
+    },
+    {
+      "id": "character_23"
+    },
+    {
+      "id": "character_24"
+    },
+    {
+      "id": "character_25"
+    },
+    {
+      "id": "character_26"
+    },
+    {
+      "id": "character_27"
+    },
+    {
+      "id": "character_28"
+    },
+    {
+      "id": "character_29"
+    },
+    {
+      "id": "character_30"
+    },
+    {
+      "id": "character_31"
+    },
+    {
+      "id": "character_32"
+    },
+    {
+      "id": "character_33"
+    },
+    {
+      "id": "character_34"
+    },
+    {
+      "id": "character_35"
+    },
+    {
+      "id": "character_36"
+    },
+    {
+      "id": "character_37"
+    },
+    {
+      "id": "character_38"
+    },
+    {
+      "id": "character_39"
+    },
+    {
+      "id": "character_40"
+    },
+    {
+      "id": "character_41"
+    },
+    {
+      "id": "character_42"
+    },
+    {
+      "id": "character_43"
+    },
+    {
+      "id": "character_44"
+    },
+    {
+      "id": "character_45"
+    },
+    {
+      "id": "character_46"
+    },
+    {
+      "id": "character_47"
+    },
+    {
+      "id": "character_48"
+    },
+    {
+      "id": "character_49"
+    },
+    {
+      "id": "character_50"
+    },
+    {
+      "id": "character_51"
+    },
+    {
+      "id": "character_52"
+    },
+    {
+      "id": "character_53"
+    },
+    {
+      "id": "character_54"
+    },
+    {
+      "id": "character_55"
+    },
+    {
+      "id": "character_56"
+    },
+    {
+      "id": "character_57"
+    },
+    {
+      "id": "character_58"
+    },
+    {
+      "id": "character_59"
+    },
+    {
+      "id": "character_60"
+    },
+    {
+      "id": "character_61"
+    },
+    {
+      "id": "character_62"
+    },
+    {
+      "id": "character_63"
+    },
+    {
+      "id": "character_64"
+    },
+    {
+      "id": "character_65"
+    },
+    {
+      "id": "character_66"
+    },
+    {
+      "id": "character_67"
+    },
+    {
+      "id": "character_68"
+    },
+    {
+      "id": "character_69"
+    },
+    {
+      "id": "character_70"
+    },
+    {
+      "id": "character_71"
+    },
+    {
+      "id": "character_72"
+    },
+    {
+      "id": "character_73"
+    },
+    {
+      "id": "character_74"
+    },
+    {
+      "id": "character_75"
+    },
+    {
+      "id": "character_76"
+    },
+    {
+      "id": "character_77"
+    },
+    {
+      "id": "character_78"
+    },
+    {
+      "id": "character_79"
+    },
+    {
+      "id": "character_80"
+    },
+    {
+      "id": "character_81"
+    },
+    {
+      "id": "character_82"
+    },
+    {
+      "id": "character_83"
+    },
+    {
+      "id": "character_84"
+    },
+    {
+      "id": "character_85"
+    },
+    {
+      "id": "character_86"
+    },
+    {
+      "id": "character_87"
+    },
+    {
+      "id": "character_88"
+    },
+    {
+      "id": "character_89"
+    },
+    {
+      "id": "character_90"
+    }
+  ],
+  "edges": [
+    {
+      "source": "character_1",
+      "target": "character_19"
+    },
+    {
+      "source": "character_1",
+      "target": "character_23"
+    },
+    {
+      "source": "character_1",
+      "target": "character_25"
+    },
+    {
+      "source": "character_1",
+      "target": "character_57"
+    },
+    {
+      "source": "character_1",
+      "target": "character_61"
+    },
+    {
+      "source": "character_1",
+      "target": "character_77"
+    },
+    {
+      "source": "character_1",
+      "target": "character_80"
+    },
+    {
+      "source": "character_2",
+      "target": "character_5"
+    },
+    {
+      "source": "character_2",
+      "target": "character_22"
+    },
+    {
+      "source": "character_2",
+      "target": "character_27"
+    },
+    {
+      "source": "character_2",
+      "target": "character_53"
+    },
+    {
+      "source": "character_2",
+      "target": "character_59"
+    },
+    {
+      "source": "character_3",
+      "target": "character_11"
+    },
+    {
+      "source": "character_3",
+      "target": "character_29"
+    },
+    {
+      "source": "character_3",
+      "target": "character_63"
+    },
+    {
+      "source": "character_3",
+      "target": "character_67"
+    },
+    {
+      "source": "character_3",
+      "target": "character_86"
+    },
+    {
+      "source": "character_4",
+      "target": "character_5"
+    },
+    {
+      "source": "character_4",
+      "target": "character_14"
+    },
+    {
+      "source": "character_4",
+      "target": "character_28"
+    },
+    {
+      "source": "character_4",
+      "target": "character_62"
+    },
+    {
+      "source": "character_4",
+      "target": "character_65"
+    },
+    {
+      "source": "character_5",
+      "target": "character_17"
+    },
+    {
+      "source": "character_5",
+      "target": "character_58"
+    },
+    {
+      "source": "character_5",
+      "target": "character_61"
+    },
+    {
+      "source": "character_5",
+      "target": "character_70"
+    },
+    {
+      "source": "character_6",
+      "target": "character_16"
+    },
+    {
+      "source": "character_6",
+      "target": "character_40"
+    },
+    {
+      "source": "character_6",
+      "target": "character_60"
+    },
+    {
+      "source": "character_6",
+      "target": "character_65"
+    },
+    {
+      "source": "character_6",
+      "target": "character_80"
+    },
+    {
+      "source": "character_6",
+      "target": "character_81"
+    },
+    {
+      "source": "character_6",
+      "target": "character_82"
+    },
+    {
+      "source": "character_7",
+      "target": "character_8"
+    },
+    {
+      "source": "character_7",
+      "target": "character_21"
+    },
+    {
+      "source": "character_7",
+      "target": "character_23"
+    },
+    {
+      "source": "character_7",
+      "target": "character_66"
+    },
+    {
+      "source": "character_7",
+      "target": "character_70"
+    },
+    {
+      "source": "character_7",
+      "target": "character_90"
+    },
+    {
+      "source": "character_8",
+      "target": "character_27"
+    },
+    {
+      "source": "character_8",
+      "target": "character_45"
+    },
+    {
+      "source": "character_8",
+      "target": "character_64"
+    },
+    {
+      "source": "character_9",
+      "target": "character_17"
+    },
+    {
+      "source": "character_9",
+      "target": "character_30"
+    },
+    {
+      "source": "character_9",
+      "target": "character_31"
+    },
+    {
+      "source": "character_9",
+      "target": "character_61"
+    },
+    {
+      "source": "character_9",
+      "target": "character_69"
+    },
+    {
+      "source": "character_10",
+      "target": "character_46"
+    },
+    {
+      "source": "character_10",
+      "target": "character_73"
+    },
+    {
+      "source": "character_10",
+      "target": "character_88"
+    },
+    {
+      "source": "character_11",
+      "target": "character_14"
+    },
+    {
+      "source": "character_11",
+      "target": "character_74"
+    },
+    {
+      "source": "character_12",
+      "target": "character_13"
+    },
+    {
+      "source": "character_12",
+      "target": "character_21"
+    },
+    {
+      "source": "character_12",
+      "target": "character_23"
+    },
+    {
+      "source": "character_12",
+      "target": "character_47"
+    },
+    {
+      "source": "character_12",
+      "target": "character_52"
+    },
+    {
+      "source": "character_12",
+      "target": "character_55"
+    },
+    {
+      "source": "character_12",
+      "target": "character_89"
+    },
+    {
+      "source": "character_13",
+      "target": "character_68"
+    },
+    {
+      "source": "character_13",
+      "target": "character_79"
+    },
+    {
+      "source": "character_13",
+      "target": "character_88"
+    },
+    {
+      "source": "character_14",
+      "target": "character_36"
+    },
+    {
+      "source": "character_14",
+      "target": "character_40"
+    },
+    {
+      "source": "character_14",
+      "target": "character_54"
+    },
+    {
+      "source": "character_14",
+      "target": "character_77"
+    },
+    {
+      "source": "character_15",
+      "target": "character_29"
+    },
+    {
+      "source": "character_15",
+      "target": "character_50"
+    },
+    {
+      "source": "character_15",
+      "target": "character_55"
+    },
+    {
+      "source": "character_15",
+      "target": "character_74"
+    },
+    {
+      "source": "character_16",
+      "target": "character_20"
+    },
+    {
+      "source": "character_16",
+      "target": "character_23"
+    },
+    {
+      "source": "character_16",
+      "target": "character_54"
+    },
+    {
+      "source": "character_16",
+      "target": "character_56"
+    },
+    {
+      "source": "character_16",
+      "target": "character_61"
+    },
+    {
+      "source": "character_17",
+      "target": "character_19"
+    },
+    {
+      "source": "character_17",
+      "target": "character_46"
+    },
+    {
+      "source": "character_17",
+      "target": "character_57"
+    },
+    {
+      "source": "character_17",
+      "target": "character_65"
+    },
+    {
+      "source": "character_17",
+      "target": "character_67"
+    },
+    {
+      "source": "character_17",
+      "target": "character_84"
+    },
+    {
+      "source": "character_18",
+      "target": "character_24"
+    },
+    {
+      "source": "character_18",
+      "target": "character_42"
+    },
+    {
+      "source": "character_18",
+      "target": "character_90"
+    },
+    {
+      "source": "character_19",
+      "target": "character_58"
+    },
+    {
+      "source": "character_19",
+      "target": "character_65"
+    },
+    {
+      "source": "character_19",
+      "target": "character_66"
+    },
+    {
+      "source": "character_19",
+      "target": "character_80"
+    },
+    {
+      "source": "character_20",
+      "target": "character_42"
+    },
+    {
+      "source": "character_20",
+      "target": "character_89"
+    },
+    {
+      "source": "character_21",
+      "target": "character_26"
+    },
+    {
+      "source": "character_21",
+      "target": "character_27"
+    },
+    {
+      "source": "character_21",
+      "target": "character_32"
+    },
+    {
+      "source": "character_21",
+      "target": "character_37"
+    },
+    {
+      "source": "character_21",
+      "target": "character_62"
+    },
+    {
+      "source": "character_21",
+      "target": "character_69"
+    },
+    {
+      "source": "character_21",
+      "target": "character_80"
+    },
+    {
+      "source": "character_21",
+      "target": "character_82"
+    },
+    {
+      "source": "character_22",
+      "target": "character_42"
+    },
+    {
+      "source": "character_22",
+      "target": "character_49"
+    },
+    {
+      "source": "character_24",
+      "target": "character_75"
+    },
+    {
+      "source": "character_24",
+      "target": "character_85"
+    },
+    {
+      "source": "character_25",
+      "target": "character_30"
+    },
+    {
+      "source": "character_25",
+      "target": "character_57"
+    },
+    {
+      "source": "character_25",
+      "target": "character_81"
+    },
+    {
+      "source": "character_26",
+      "target": "character_29"
+    },
+    {
+      "source": "character_26",
+      "target": "character_46"
+    },
+    {
+      "source": "character_26",
+      "target": "character_64"
+    },
+    {
+      "source": "character_26",
+      "target": "character_78"
+    },
+    {
+      "source": "character_27",
+      "target": "character_40"
+    },
+    {
+      "source": "character_27",
+      "target": "character_43"
+    },
+    {
+      "source": "character_27",
+      "target": "character_52"
+    },
+    {
+      "source": "character_27",
+      "target": "character_77"
+    },
+    {
+      "source": "character_28",
+      "target": "character_30"
+    },
+    {
+      "source": "character_28",
+      "target": "character_49"
+    },
+    {
+      "source": "character_28",
+      "target": "character_67"
+    },
+    {
+      "source": "character_29",
+      "target": "character_49"
+    },
+    {
+      "source": "character_29",
+      "target": "character_71"
+    },
+    {
+      "source": "character_29",
+      "target": "character_88"
+    },
+    {
+      "source": "character_30",
+      "target": "character_38"
+    },
+    {
+      "source": "character_30",
+      "target": "character_66"
+    },
+    {
+      "source": "character_30",
+      "target": "character_81"
+    },
+    {
+      "source": "character_30",
+      "target": "character_87"
+    },
+    {
+      "source": "character_31",
+      "target": "character_84"
+    },
+    {
+      "source": "character_33",
+      "target": "character_41"
+    },
+    {
+      "source": "character_33",
+      "target": "character_45"
+    },
+    {
+      "source": "character_33",
+      "target": "character_53"
+    },
+    {
+      "source": "character_33",
+      "target": "character_54"
+    },
+    {
+      "source": "character_33",
+      "target": "character_71"
+    },
+    {
+      "source": "character_33",
+      "target": "character_83"
+    },
+    {
+      "source": "character_33",
+      "target": "character_88"
+    },
+    {
+      "source": "character_34",
+      "target": "character_45"
+    },
+    {
+      "source": "character_34",
+      "target": "character_72"
+    },
+    {
+      "source": "character_34",
+      "target": "character_80"
+    },
+    {
+      "source": "character_34",
+      "target": "character_84"
+    },
+    {
+      "source": "character_35",
+      "target": "character_53"
+    },
+    {
+      "source": "character_35",
+      "target": "character_57"
+    },
+    {
+      "source": "character_35",
+      "target": "character_61"
+    },
+    {
+      "source": "character_35",
+      "target": "character_73"
+    },
+    {
+      "source": "character_36",
+      "target": "character_49"
+    },
+    {
+      "source": "character_37",
+      "target": "character_46"
+    },
+    {
+      "source": "character_37",
+      "target": "character_73"
+    },
+    {
+      "source": "character_38",
+      "target": "character_52"
+    },
+    {
+      "source": "character_38",
+      "target": "character_56"
+    },
+    {
+      "source": "character_38",
+      "target": "character_59"
+    },
+    {
+      "source": "character_38",
+      "target": "character_88"
+    },
+    {
+      "source": "character_39",
+      "target": "character_55"
+    },
+    {
+      "source": "character_39",
+      "target": "character_57"
+    },
+    {
+      "source": "character_39",
+      "target": "character_74"
+    },
+    {
+      "source": "character_39",
+      "target": "character_78"
+    },
+    {
+      "source": "character_39",
+      "target": "character_80"
+    },
+    {
+      "source": "character_39",
+      "target": "character_82"
+    },
+    {
+      "source": "character_40",
+      "target": "character_46"
+    },
+    {
+      "source": "character_40",
+      "target": "character_49"
+    },
+    {
+      "source": "character_40",
+      "target": "character_82"
+    },
+    {
+      "source": "character_41",
+      "target": "character_45"
+    },
+    {
+      "source": "character_41",
+      "target": "character_46"
+    },
+    {
+      "source": "character_41",
+      "target": "character_64"
+    },
+    {
+      "source": "character_42",
+      "target": "character_57"
+    },
+    {
+      "source": "character_43",
+      "target": "character_59"
+    },
+    {
+      "source": "character_43",
+      "target": "character_73"
+    },
+    {
+      "source": "character_44",
+      "target": "character_47"
+    },
+    {
+      "source": "character_44",
+      "target": "character_57"
+    },
+    {
+      "source": "character_44",
+      "target": "character_84"
+    },
+    {
+      "source": "character_44",
+      "target": "character_88"
+    },
+    {
+      "source": "character_45",
+      "target": "character_61"
+    },
+    {
+      "source": "character_46",
+      "target": "character_50"
+    },
+    {
+      "source": "character_46",
+      "target": "character_58"
+    },
+    {
+      "source": "character_47",
+      "target": "character_59"
+    },
+    {
+      "source": "character_47",
+      "target": "character_69"
+    },
+    {
+      "source": "character_47",
+      "target": "character_80"
+    },
+    {
+      "source": "character_47",
+      "target": "character_81"
+    },
+    {
+      "source": "character_47",
+      "target": "character_85"
+    },
+    {
+      "source": "character_48",
+      "target": "character_78"
+    },
+    {
+      "source": "character_48",
+      "target": "character_85"
+    },
+    {
+      "source": "character_49",
+      "target": "character_77"
+    },
+    {
+      "source": "character_50",
+      "target": "character_79"
+    },
+    {
+      "source": "character_50",
+      "target": "character_89"
+    },
+    {
+      "source": "character_50",
+      "target": "character_90"
+    },
+    {
+      "source": "character_51",
+      "target": "character_83"
+    },
+    {
+      "source": "character_52",
+      "target": "character_60"
+    },
+    {
+      "source": "character_52",
+      "target": "character_85"
+    },
+    {
+      "source": "character_52",
+      "target": "character_89"
+    },
+    {
+      "source": "character_53",
+      "target": "character_56"
+    },
+    {
+      "source": "character_53",
+      "target": "character_79"
+    },
+    {
+      "source": "character_56",
+      "target": "character_58"
+    },
+    {
+      "source": "character_57",
+      "target": "character_67"
+    },
+    {
+      "source": "character_57",
+      "target": "character_69"
+    },
+    {
+      "source": "character_57",
+      "target": "character_72"
+    },
+    {
+      "source": "character_58",
+      "target": "character_64"
+    },
+    {
+      "source": "character_58",
+      "target": "character_68"
+    },
+    {
+      "source": "character_59",
+      "target": "character_62"
+    },
+    {
+      "source": "character_59",
+      "target": "character_82"
+    },
+    {
+      "source": "character_59",
+      "target": "character_86"
+    },
+    {
+      "source": "character_60",
+      "target": "character_61"
+    },
+    {
+      "source": "character_60",
+      "target": "character_84"
+    },
+    {
+      "source": "character_61",
+      "target": "character_88"
+    },
+    {
+      "source": "character_62",
+      "target": "character_65"
+    },
+    {
+      "source": "character_63",
+      "target": "character_84"
+    },
+    {
+      "source": "character_64",
+      "target": "character_84"
+    },
+    {
+      "source": "character_65",
+      "target": "character_74"
+    },
+    {
+      "source": "character_65",
+      "target": "character_90"
+    },
+    {
+      "source": "character_66",
+      "target": "character_74"
+    },
+    {
+      "source": "character_66",
+      "target": "character_82"
+    },
+    {
+      "source": "character_68",
+      "target": "character_72"
+    },
+    {
+      "source": "character_68",
+      "target": "character_75"
+    },
+    {
+      "source": "character_69",
+      "target": "character_74"
+    },
+    {
+      "source": "character_69",
+      "target": "character_79"
+    },
+    {
+      "source": "character_69",
+      "target": "character_83"
+    },
+    {
+      "source": "character_69",
+      "target": "character_89"
+    },
+    {
+      "source": "character_71",
+      "target": "character_75"
+    },
+    {
+      "source": "character_71",
+      "target": "character_76"
+    },
+    {
+      "source": "character_72",
+      "target": "character_86"
+    },
+    {
+      "source": "character_74",
+      "target": "character_89"
+    },
+    {
+      "source": "character_75",
+      "target": "character_78"
+    },
+    {
+      "source": "character_76",
+      "target": "character_77"
+    },
+    {
+      "source": "character_76",
+      "target": "character_82"
+    }
+  ]
+}
