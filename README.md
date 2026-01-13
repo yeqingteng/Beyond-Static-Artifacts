@@ -35,7 +35,7 @@ python network_propagation.py
 We introduce the Background–User–Perspective (BUP) framework, which models claim check-worthiness as a dynamic function of social context, user attributes, and evaluation criteria rather than a static property. You can find a simple diagram of the BUP Framework and the related propagation network in the `assets` folder. **Use the following command for customized check-worthiness detection:**
 ```bash
 # step 1:
-# by default, the LLM automatically extracts the Time Node (T), Regulatory Pressure (P), and Trust Climate (C) for each evolved claim
+# by default, the LLM automatically extracts the Time Node (T), Regulatory Pressure (P), and Trust Climate (C) for each evolved-claim
 # alternatively, you can manually specify T, P, and C for each evolved-claim
 python background.py
 
