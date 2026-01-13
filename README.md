@@ -10,11 +10,41 @@ OCM represents a claim through three layers—context, utterance, and propositio
 This environment simulates claim evolution in a social environment with heterogeneous agents modeled from real users’ psychometric traits and sociocultural groups. Claims propagate over different network topologies (random, clustered, scale-free) to study how social structure drives information mutation and veracity drift. The details of the three types of networks and user information can be found in the `assets` folder.
 ## Methodology
 ### Context-Anchored Initialization
-
+- **Data Preparation:** Seed contexts are extracted from authoritative news abstracts on high-stakes topics by filtering out non-logical content and keeping only atomic semantic units. Details can be found in `abstract.json`.
+- **Seed/non-claim Generation:** Using these contexts, GPT-4o generates claims and non-claims under strict public-evidence criteria, retaining only verifiable statements as claims. **Use the following command for initial generation:**
+```bash
+python seed_non.py --input abstract.json --seed_out seed.jsonl --non_out non.jsonl --num_seed 5 --num_non 2 --model_seed gpt-4o --model_non gpt-4o
+```
 ### Socialized Propagation and Evolution
-- **Unmitigated Propagation:** 
-- **Intervened Propagation:**
-### Customized Check-Worthiness Evaluation
+- **Unmitigated Propagation:** Unmitigated propagation simulates truth decay by sequentially rewriting claims as they spread through a social network, allowing semantic drift to emerge naturally. Different network topologies (random, scale-free, clustered) model how user attributes, hubs, and community homogeneity shape veracity evolution. **Use the following command to run seed-claim evolution under unmitigated propagation:**
+```bash
+# random network
+python random_propagation_verdict.py
 
-### Quality Control
+# scale-free network
+python hub_propagation_verdict.py
+
+# clustered network (three types of user groups)
+python cluster_propagation_verdict.py
+```
+- **Intervened Propagation:** Intervened propagation steers claim evolution toward target attributes by letting matched users actively rewrite claims while others pass them through. Multi-auditor oversight monitors multi-step diffusion and corrects deviations to keep evolution on the desired trajectory. **Use the following command to run seed-claim evolution under intervened propagation:**
+```bash
+python network_propagation.py 
+```
+### Customized Check-Worthiness Evaluation
+We introduce the Background–User–Perspective (BUP) framework, which models claim check-worthiness as a dynamic function of social context, user attributes, and evaluation criteria rather than a static property. You can find a simple diagram of the BUP Framework and the related propagation network in the `assets` folder. **Use the following command for customized check-worthiness detection:**
+```bash
+# step 1:
+# by default, the LLM automatically extracts the Time Node (T), Regulatory Pressure (P), and Trust Climate (C) for each evolved claim
+# alternatively, you can manually specify T, P, and C for each evolved-claim
+python background.py
+
+# step 2: propagation is conducted within a network constructed based on Dunbar's layer theory
+python propagation.py
+
+# step 3: manually select the appropriate user type and evaluation perspective to obtain the desired "check-worthiness" result you desire
+python evaluate.py
+```
+## Dataset
+We followed the **Context-Anchored Initialization** and **Socialized Propagation and Evolution** procedures outlined in the Methodology, and provided the corresponding demo dataset in the `data` folder. It includes `non-claims`, `seed-claims`, as well as the `evolved-claims` resulting from the dissemination and evolution of the seed-claims.
 
