@@ -48,3 +48,14 @@ python evaluate.py
 ## Dataset
 We followed the **Context-Anchored Initialization** and **Socialized Propagation and Evolution** procedures outlined in the Methodology, and provided the corresponding demo dataset in the `data` folder. It includes `non-claims`, `seed-claims`, as well as the `evolved-claims` resulting from the dissemination and evolution of the seed-claims.
 
+## Citation
+If you find this work helpful, please consider citing our paper:
+```bash
+@inproceedings{Teng2026BeyondStatic,
+    author    = {Yeqing Teng and Shuxia Lin and Linhai Zhang and Jiasheng Si and Weiyu Zhang and Wenpeng Lu and Deyu Zhou and Xiaoming Wu},
+    title     = {Beyond Static Artifacts: An Evolutionary Framework for Synthetic Claim Generation},
+    booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics},
+    year      = {2026}
+}
+```
+
